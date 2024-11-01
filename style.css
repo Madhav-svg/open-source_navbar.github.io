@@ -111,7 +111,7 @@ nav li {
 
 }
 
-@media(min-width:1024px) {
+/* @media(min-width:1024px) {
     .parent_txt {
         margin-top: -37vh;
         margin-right: -32vh;
@@ -124,4 +124,4 @@ nav li {
         margin-left: 15vh;
         margin-top: 1vh;
     }
-}
+} */
